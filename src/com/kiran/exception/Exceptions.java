@@ -1,4 +1,4 @@
-package com.kiran;
+package com.kiran.exception;
 
 public class Exceptions {
 

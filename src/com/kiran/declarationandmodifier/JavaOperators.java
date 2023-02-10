@@ -1,4 +1,4 @@
-package com.kiran;
+package com.kiran.declarationandmodifier;
 
 public class JavaOperators {
 // increment and decrement eg a++, a--

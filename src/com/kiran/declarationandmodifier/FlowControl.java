@@ -1,4 +1,4 @@
-package com.kiran;
+package com.kiran.declarationandmodifier;
 
 public class FlowControl {
 
