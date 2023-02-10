@@ -1,0 +1,12 @@
+
+—
+java:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ÿá˜Û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿è®Î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(îì¢Ü
+P
+java:S1854)";Remove this useless assignment to local variable "adapter".(à±¸
+A
+java:S1481)",Remove this unused "adapter" local variable.(à±¸
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ
+@
+java:S1068"*Remove this unused "number" private field.(òù´Ê

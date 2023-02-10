@@ -1,0 +1,69 @@
+
+Y
+java:S2184¢"BCast one of the operands of this addition operation to a "double".(°»³ÿ
+U
+java:S1854°"9Remove this useless assignment to local variable "value".(êªæ€ûÿÿÿÿ
+L
+java:S1854®"5Remove this useless assignment to local variable "t".(ÇËìÂ
+L
+java:S1854£"5Remove this useless assignment to local variable "q".(‹ƒô¨
+L
+java:S1854¢"5Remove this useless assignment to local variable "p".(°»³ÿ
+P
+java:S1854M"5Remove this useless assignment to local variable "k".(¥õâ£ùÿÿÿÿ
+P
+java:S1854M"5Remove this useless assignment to local variable "j".(¥õâ£ùÿÿÿÿ
+J
+java:S18546"5Remove this useless assignment to local variable "c".(ñê¢|
+V	java:S125"<This block of commented-out lines of code should be removed.(˜Â‹Ûÿÿÿÿÿ
+T
+java:S16595">Declare "b" and all following declarations on a separate line.(ùƒ¾™
+:
+java:S1659M"Declare "k" on a separate line.(¥õâ£ùÿÿÿÿ
+9
+java:S1659¡""Declare "num2" on a separate line.(®¤¸Ò
+V	java:S125"<This block of commented-out lines of code should be removed.(Íº¤¨ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ž¹Êð
+Q	java:S125'"<This block of commented-out lines of code should be removed.(žÐÛ
+V	java:S125"<This block of commented-out lines of code should be removed.(Íº¤¨ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ž¹Êð
+Q	java:S125'"<This block of commented-out lines of code should be removed.(žÐÛ
+V	java:S125"<This block of commented-out lines of code should be removed.(Íº¤¨ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ž¹Êð
+Q	java:S125'"<This block of commented-out lines of code should be removed.(žÐÛ
+<
+java:S14815"&Remove this unused "c" local variable.(ùƒ¾™
+V	java:S125L"<This block of commented-out lines of code should be removed.(¿ô²¤ùÿÿÿÿ
+A
+java:S1481M"&Remove this unused "j" local variable.(¥õâ£ùÿÿÿÿ
+V	java:S125L"<This block of commented-out lines of code should be removed.(¿ô²¤ùÿÿÿÿ
+A
+java:S1481M"&Remove this unused "k" local variable.(¥õâ£ùÿÿÿÿ
+V	java:S125U"<This block of commented-out lines of code should be removed.(ÚÊ¼âûÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(©†Àˆ
+V	java:S125e"<This block of commented-out lines of code should be removed.(·¿¿¯þÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(ŽÅŒ¼ÿÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(·¿¿¯þÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(Áð¸ÿüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(»¥¸Äûÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(ÙíùÖùÿÿÿÿ
+Q	java:S125•"<This block of commented-out lines of code should be removed.(ÀõÀD
+V	java:S125U"<This block of commented-out lines of code should be removed.(ÚÊ¼âûÿÿÿÿ
+Q	java:S125_"<This block of commented-out lines of code should be removed.(©†Àˆ
+V	java:S125e"<This block of commented-out lines of code should be removed.(·¿¿¯þÿÿÿÿ
+V	java:S125n"<This block of commented-out lines of code should be removed.(ŽÅŒ¼ÿÿÿÿÿ
+V	java:S125w"<This block of commented-out lines of code should be removed.(·¿¿¯þÿÿÿÿ
+W	java:S125Š"<This block of commented-out lines of code should be removed.(Áð¸ÿüÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(»¥¸Äûÿÿÿÿ
+W	java:S125“"<This block of commented-out lines of code should be removed.(ÙíùÖùÿÿÿÿ
+Q	java:S125•"<This block of commented-out lines of code should be removed.(ÀõÀD
+=
+java:S1481¢"&Remove this unused "p" local variable.(°»³ÿ
+=
+java:S1481£"&Remove this unused "q" local variable.(‹ƒô¨
+W	java:S125¦"<This block of commented-out lines of code should be removed.(ß—¡æûÿÿÿÿ
+W	java:S125ª"<This block of commented-out lines of code should be removed.(çó•Ýÿÿÿÿÿ
+=
+java:S1481®"&Remove this unused "t" local variable.(ÇËìÂ
+A
+java:S1481¯"*Remove this unused "value" local variable.(—²òï

@@ -1,0 +1,8 @@
+
+Q	java:S125%"<This block of commented-out lines of code should be removed.(¶¹ÒÕ
+{
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÙÔûèà0
+X	java:S125+"<This block of commented-out lines of code should be removed.(ÿ€øÍ8öãøèà0
+>	java:S108,")Either remove or fill this block of code.(ä ¹€
+@
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD8ÛÔûèà0

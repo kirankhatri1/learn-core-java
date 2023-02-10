@@ -1,0 +1,26 @@
+
+m
+java:S1192Q"WDefine a constant instead of duplicating this literal "finally block executed" 3 times.(®õŠ
+j
+java:S1192N"UDefine a constant instead of duplicating this literal "catch block executed" 3 times.(ºûû7
+P
+java:S1141k"5Extract this nested try block into a separate method.(ç£êúÿÿÿÿ
+^
+java:S3518J"CMake sure this expression can't be zero before doing this division.(šÇé¬ÿÿÿÿÿ
+^
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ˆÒÙüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(½‘Ñ³
+Q	java:S125."<This block of commented-out lines of code should be removed.(½‘Ñ³
+V	java:S1258"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ğÓûŒ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(šÇé¬ÿÿÿÿÿ
+M	java:S106N"9Replace this use of System.out or System.err by a logger.(ºûû7
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(®õŠ
+V	java:S125Y"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(´äÙîÿÿÿÿÿ
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(ğÓûŒ
+M	java:S106q"9Replace this use of System.out or System.err by a logger.(ºûû7
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(®õŠ
+M	java:S106{"9Replace this use of System.out or System.err by a logger.(ºûû7
+N	java:S106~"9Replace this use of System.out or System.err by a logger.(®õŠ
+W	java:S125Â"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ

@@ -1,0 +1,16 @@
+
+_
+java:S2094#"BRemove this empty class, write its code or make it an "interface".(’Ã¤Ð8Òæã¼á0
+X	java:S125&"<This block of commented-out lines of code should be removed.(Çµí‘8âæã¼á0
+Q	java:S1257"<This block of commented-out lines of code should be removed.(½‘Ñ³
+]	java:S125K"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ8ãæã¼á0
+W	java:S125„"<This block of commented-out lines of code should be removed.(’Æ·ªÿÿÿÿÿ
+W	java:S125•"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
