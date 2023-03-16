@@ -12,9 +12,26 @@
       <schema-mapping>
         <introspection-scope>
           <node kind="schema">
+            <name qname="db_school" />
+            <name qname="db_m_to_m_relation" />
+            <name qname="multivalued_attribute" />
             <name qname="@" />
             <name qname="db_bank" />
           </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+    <data-source name="@localhost [2]" uuid="8dc37379-9649-4ef5-b5aa-042755827a52">
+      <database-info product="MySQL" version="5.7.41-log" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.25 (Revision: 08be9e9b4cba6aa115f9b27b215887af40b159e0)" dbms="MYSQL" exact-version="5.7.41" exact-driver-version="8.0">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="@" />
         </introspection-scope>
       </schema-mapping>
     </data-source>
